@@ -2,5 +2,5 @@
 
 
 - 🔭 I’m currently studying at Tampere University
-- 🌱 I’m currently learning data analysis with Python at FreeCodeCamp
+- 🌱 I'm interested in Data analytics and Data science
 - 📫 How to reach me: linkedin.com/in/oosijoel
